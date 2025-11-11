@@ -4,14 +4,16 @@
 
 Waxaan ahay developer jecel teknolojiyada cusub iyo samaynta mashruucyo cajiib ah. Ku soo dhawoow profile-kayga GitHub!
 
-- 🔭 **Mashruucyada aan hadda ka shaqeeyo:** ... *(Ku qor halkan mashruucyada aad hadda samaynayso)*
-- 🌱 **Waxa aan hadda baranayaa:** ... *(Sheeg teknolojiyada ama luqadaha aad baranayso)*
-- 👯 **Waxaan la shaqeyn doonaa:** ... *(Qeex noocyada mashruucyada aad la shaqeyn kartid)*
-- 🤔 **Waxaan ka rabain caawimaad:** ... *(Meelaha aad u baahan tahay caawimaad)*
-- 💬 **Wax i weydiin karta:** ... *(Aqoonta aad u leedahay, tusaale: Web Development, Python, iwm)*
-- 📫 **Sida la i gaaraayo:** ... *(Email-kaaga ama xiriiriyaha social media-kaaga)*
-- 😄 **Magacayga lugahaed:** He/Him *(Ama magaca lugahaad aad door bidayso)*
-- ⚡ **Xog cajiib ah aniga igu saabsan:** ... *(Xog cajiib ah oo ku saabsan nolashaada)*
+- 🔭 **Mashruucyada aan hadda ka shaqeeyo:** ... *(waxaan idinka caawin doonaa in aad heshaan websiteyo dhameystiran)*
+- 🌱 **Waxa aan hadda baranayaa:** ... *( luqadaha kala duwan ee programming ka)*
+- 👯 **Waxaan la shaqeyn doonaa:** ... *(waxaan ahay hal abuur leh xirfad iyo garaad waxaan idiin balan qaadeyaa in aad heli doontaa application's-kasecurity-ga laxiriira iyo kuwa asturnaanta gaarka ah)*
+- 🤔 **Waxaan ka rabain caawimaad:** ... *(keliya taageere buuxa ii noqda web ku waa kiina )*
+- 💬 **Wax i weydiin karta:** ... *(Aqoonta aan u leeyahay: Web Development, Python, iwm)*
+- 📫 **Sida la i gaaraayo:** ... *(Email-kaayga ahmedbinmuhamed399@gmail.com)*
+- 😄 **Magacayga lugahaed:** He/Him *(![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black))*
+- ⚡ **Xog cajiib ah aniga igu saabsan:** ... *(ma'ahi mid idinka caqli bdn 😁😁)*
 
 ---
 
