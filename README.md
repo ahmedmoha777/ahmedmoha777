@@ -40,4 +40,4 @@ Waxaan ahay developer jecel teknolojiyada cusub iyo samaynta mashruucyo cajiib a
 
 ---
 
-*Waad ku mahadsan tahay booqashada profile-kayga! Maalin wanaagsan! 😊*
+*Waad ku mahadsan tahay booqashada profile-kayga! Maalin wanaagsan! 😊*....
