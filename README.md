@@ -1,4 +1,4 @@
-# Salaan, Anigu waa Ahmed! 👋
+# Salaan, Anigu magaceygu waa ahmed mohamed ibrahim! 👋
 
 ## 🚀 Warbixin Aniga Ah
 
